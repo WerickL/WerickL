@@ -1,5 +1,3 @@
-### Oii, eu sou Werick Lima, estudante de tecnologia e estagiário de T.I.
-
 <div align="center">
   <a href="https://github.com/WerickL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WerickL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
